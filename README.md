@@ -1,6 +1,6 @@
 # BaseProject-Cpp
 [![Build Status](https://travis-ci.org/fish-chaun/BaseProject.svg?branch=master)](https://travis-ci.org/fish-chaun/BaseProject)
-[![codecov](https://codecov.io/gh/fish-chaunE/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/fish-chaun/BaseProject)
+[![codecov](https://codecov.io/gh/fish-chaun/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/fish-chaun/BaseProject)
 
 分組專題基本樣板(C++)
 
